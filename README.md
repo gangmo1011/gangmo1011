@@ -35,8 +35,6 @@
 
 ## Connect with me
 sns, 페북, 링크드인 등등
-
-## Status
 <p>
 <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> 
@@ -44,6 +42,8 @@ sns, 페북, 링크드인 등등
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
+
+## Status
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=gangmo1011&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangmo1011&layout=compact&theme=vue&hide_border=true" />
