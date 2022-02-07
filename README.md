@@ -8,7 +8,7 @@
 
 📬 How to reach me: kyeongmo97@naver.com 
 
-📱 Phone number: 010-8897-9768
+
 
 ## Interest 
 
