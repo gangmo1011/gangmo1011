@@ -2,7 +2,8 @@
 ### I am Heo Kyeong Mo. I'm a baby developer from Incheon, Republic of Korea.
 
 ## About Me
-:smiley: I've been graduated from CAU, major in Public Adminstration. \n
+:smiley: I've been graduated from CAU, major in Public Adminstration. 
+
 I'm currently learning basic programming skills like Python, HTML and Javascript.
 
 \\<!--:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> -->
