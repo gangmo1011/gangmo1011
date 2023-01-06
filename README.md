@@ -6,7 +6,7 @@
 
 I'm currently learning basic programming skills like Python, HTML and Javascript.
 
-\\<!--:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> -->
+<!--:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> -->
 
 📬 How to reach me: kyeongmo97@naver.com 
 
